@@ -18,7 +18,7 @@ list_of_files = [
     "src/utils/__init__.py",
     "src/utils/utils.py",
     "src/logger/logging.py",
-    "src/exception/exception",
+    "src/exception/exception.py",
     "tests/unit__init__.py", # Here we are performing unit testing it is only performed for an individual component
     "tests/integration/__init__.py", # Here we are using integration test it will perform for all unites and all the components
     "init_setup.sh",
